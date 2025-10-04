@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Misans&pause=1000&color=75F72E&width=435&lines=std%3A%3Aenable_if" alt="Typing SVG" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/language-C++-blue.svg" alt="Language">
+    <img src="https://img.shields.io/badge/learning-C++-green.svg" alt="Learning">
+    <a href="mailto:contact@singl.top"><img src="https://img.shields.io/badge/contact-contact@singl.top-lightgrey.svg" alt="Contact"></a>
+  </p>
+</div>
 
-<!--
-**enable-if/enable-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enable-if&show_icons=true" alt="Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enable-if" alt="Top Langs" width="320" />
+</p>
