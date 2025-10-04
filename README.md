@@ -1,3 +1,27 @@
+<style>
+body {
+  background-color: transparent;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  z-index: -1;
+
+  opacity: 0.4;
+}
+</style>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
