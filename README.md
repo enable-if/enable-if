@@ -11,10 +11,10 @@
   <p>
     <img src="https://img.shields.io/badge/language-C++-blue.svg" alt="Language">
     <img src="https://img.shields.io/badge/learning-C++-green.svg" alt="Learning">
-    <a href="mailto:contact@singl.top">
+    <a href="mailto:contact@enable-if.com">
       <img 
-        src="https://img.shields.io/badge/contact-contact@singl.top-lightgrey.svg" 
-        alt="Contact"\>
+        src="https://img.shields.io/badge/contact-contact%40enable--if.com-lightgrey.svg" 
+        alt="Contact">
       </a>
   </p>
 </div>
